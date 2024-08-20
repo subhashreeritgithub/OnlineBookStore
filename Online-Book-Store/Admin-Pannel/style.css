@@ -1,0 +1,23 @@
+/* Admin pannel header start */
+.list-admin:hover{
+    color: rgb(255, 0, 119)!important;
+    font-weight: bold;
+    background-color: unset;
+}
+.heading-first{
+    color: rgb(255, 0, 119)!important;
+}
+.fs{
+    font-size: 80px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.category-tag{
+    font-size: 18px;
+}
+.category-tag:hover{
+    background-color: dodgerblue;
+    font-weight: bold;
+
+}
+/* Admin pannel header end */
